@@ -33,19 +33,21 @@ Whether you're a developer, student, researcher, or simply curious, this project
 ## 📁 Folder Structure
 ```
 crypto-from-scratch/
-├── docs/ # Conceptual notes and markdown tutorials
-├── src/ # Source code for the cryptocurrency implementation
-│   ├── block/ # Block structure, creation, and hashing
-│   ├── blockchain/ # Blockchain logic, validation, and state
-│   ├── crypto/ # Hash functions, digital signatures, keys
-│   ├── consensus/ # Proof of Work (and later, PoS)
-│   ├── p2p/ # Peer discovery, message broadcasting
-│   ├── wallet/ # Key pair generation, address creation, balances
-│   └── cli/ # Command-line interface to interact with the system
-├── diagrams/ # Flowcharts, architecture visuals, protocol design
-├── examples/ # Sample transaction chains, key files, and test data
-├── tests/ # Unit and integration tests
-├── requirements.txt # Python dependencies
+├── docs/               # Conceptual notes and markdown tutorials
+├── src/                # Source code for the cryptocurrency implementation
+│   ├── block/          # Block structure, creation, and hashing
+│   ├── blockchain/     # Blockchain logic, validation, and state
+│   ├── crypto/         # Hash functions, digital signatures, keys
+│   ├── consensus/      # Proof of Work (and later, PoS)
+│   ├── p2p/            # Peer discovery, message broadcasting
+│   ├── wallet/         # Key pair generation, address creation, balances
+│   └── cli/            # Command-line interface to interact with the system
+├── diagrams/           # Flowcharts, architecture visuals, protocol design
+├── examples/           # Sample transaction chains, key files, and test data
+├── tests/              # Unit and integration tests
+├── algorithms/         # Standalone implementations of MD4, MD5, SHA256, Bitcoin, Ethereum, etc.
+├── references/         # Reference papers and documentation on cryptographic algorithms and blockchain
+├── requirements.txt    # Python dependencies
 ├── LICENSE
 └── README.md
 ```
@@ -122,6 +124,13 @@ This project is licensed under the MIT License. You are free to use, share, modi
 ---
 
 ## 📘 References
+
+[MD2 (Ronald L. Rivest)](https://www.rfc-editor.org/rfc/pdfrfc/rfc1115.txt.pdf)
+
+[MD2 RFC (B. Kaliski)](https://www.rfc-editor.org/rfc/pdfrfc/rfc1319.txt.pdf)
+
+[MD4 (Roland L. Rivest)](https://dspace.mit.edu/bitstream/handle/1721.1/149165/MIT-LCS-TM-434.pdf)
+
 [Bitcoin Whitepaper (Satoshi Nakamoto)](https://bitcoin.org/bitcoin.pdf)
 
 [Mastering Bitcoin (Andreas Antonopoulos)](https://github.com/bitcoinbook/bitcoinbook)
