@@ -339,7 +339,7 @@ int main(int argc, char *argv[])
     MD2_CTX context;                           // MD2 context structure to maintain algorithm state
     unsigned char digest[16];                  // Final 128-bit (16-byte) hash digest
     unsigned int input_length = strlen(input); // Length of input string
-    int i;                                     // Loop counter variable
+    unsigned int i;                            // Loop counter variable
 
     /**** MD2 Hash Computation Process ****/
 

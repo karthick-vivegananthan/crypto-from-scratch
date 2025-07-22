@@ -125,11 +125,15 @@ This project is licensed under the MIT License. You are free to use, share, modi
 
 ## 📘 References
 
-[MD2 (Ronald L. Rivest)](https://www.rfc-editor.org/rfc/pdfrfc/rfc1115.txt.pdf)
+[MD2 RFC 1115 (Ronald L. Rivest) - 1989](https://www.rfc-editor.org/rfc/pdfrfc/rfc1115.txt.pdf)
 
-[MD2 RFC (B. Kaliski)](https://www.rfc-editor.org/rfc/pdfrfc/rfc1319.txt.pdf)
+[MD2 RFC 1319 (B. Kaliski) - 1992](https://www.rfc-editor.org/rfc/pdfrfc/rfc1319.txt.pdf)
 
-[MD4 (Roland L. Rivest)](https://dspace.mit.edu/bitstream/handle/1721.1/149165/MIT-LCS-TM-434.pdf)
+[MD4 MIT/LCS/TM-434 (Roland L. Rivest) - 1990](https://dspace.mit.edu/bitstream/handle/1721.1/149165/MIT-LCS-TM-434.pdf)
+
+[MD4 RFC 1186 (R. Rivest) - 1990](https://www.rfc-editor.org/rfc/pdfrfc/rfc1186.txt.pdf)
+
+[MD4 RFC 1320 (R. Rivest) - 1992](https://www.rfc-editor.org/rfc/pdfrfc/rfc1320.txt.pdf)
 
 [Bitcoin Whitepaper (Satoshi Nakamoto)](https://bitcoin.org/bitcoin.pdf)
 
